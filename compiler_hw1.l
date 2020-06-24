@@ -1,4 +1,4 @@
-/* Definition section */
+/* Definition*/
 %{
     #include <stdio.h>
     #include <stdlib.h>
